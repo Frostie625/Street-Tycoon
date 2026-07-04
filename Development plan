@@ -1,0 +1,74 @@
+ let’s lay out a step‑by‑step development plan for your Neighborhood Tycoon game,
+using the stack we discussed (Unity + Firebase + AdMob + PlayFab). This roadmap will take you from concept to Play Store launch:
+
+🗓️ Development Roadmap
+Week 1–2: Foundation
+Set up Unity project (2D or light 3D simulation style).
+
+Design core UI wireframes (Home, Build Shop, Upgrade, Leaderboard).
+
+Implement basic shop building:
+
+Place a kiosk or suya stand.
+
+Generate coins over time.
+
+Local data storage: Use SQLite or Unity PlayerPrefs for offline progress.
+
+Week 3–4: Core Gameplay
+Upgrade system: Shops can be leveled up to increase coin output.
+
+Economy balancing: Adjust coin generation rates so gameplay feels rewarding but not too easy.
+
+Basic leaderboard (local): Show rankings within the device.
+
+First-time user journey: Tutorial + onboarding rewards.
+
+Week 5–6: Monetization
+Integrate Google AdMob:
+
+Rewarded ads (double coins).
+
+Interstitial ads (between upgrades).
+
+Google Play Billing:
+
+Premium shops (Mega Mall, National Museum).
+
+Skins/decorations.
+
+Test purchases in sandbox mode.
+
+Week 7–8: Social & Viral Features
+Firebase Authentication: Player accounts via email/Google login.
+
+Firebase Dynamic Links: Invite friends → both get rewards.
+
+Screenshot sharing plugin: Share estate images to WhatsApp/Instagram.
+
+PlayFab Leaderboards: Global rankings across all players.
+
+Week 9–10: Events & Seasonal Content
+Event system: Independence Day pack (flags, fireworks, parade).
+
+Daily challenges: “Decorate 3 shops today.”
+
+Season pass: Exclusive rewards for subscribers.
+
+Push notifications: “Your Suya Stand is ready to serve customers!”
+
+Week 11–12: Testing & Launch
+Beta testing: Small group of friends/students.
+
+Bug fixes & polish: Smooth animations, balanced economy.
+
+Analytics setup: Track retention, ad engagement, purchases.
+
+Play Store submission: Prepare screenshots, description, and marketing assets.
+
+🚀 Post-Launch Growth
+Weekly events (Christmas, New Year, Easter).
+
+Partnerships with local brands (MTN shop, Coca-Cola kiosk).
+
+Community feedback loop: Add features players request (co-op estates, pranks).
