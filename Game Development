@@ -1,0 +1,49 @@
+🎮 Game Development
+Unity → Main game engine (recommended for Android games).
+
+Blender → For creating or editing custom 3D models (shops, decorations).
+
+Figma → For designing UI wireframes and mockups.
+
+Unity Asset Store → Ready-made assets (shops, buildings, skins).
+
+☁️ Backend & Cloud
+Firebase → Authentication, database (Firestore), analytics, dynamic links (for invites).
+
+PlayFab (Microsoft) → Leaderboards, events, player data management.
+
+💰 Monetization
+Google AdMob → Rewarded ads, interstitial ads, banners.
+
+Google Play Billing Library → In-app purchases (premium shops, skins, event passes).
+
+🌍 Social & Viral Features
+Firebase Dynamic Links → Friend invites with referral rewards.
+
+Unity Social Sharing Plugins → Share screenshots directly to WhatsApp, Instagram, TikTok.
+
+📊 Testing & Analytics
+Firebase Analytics → Track retention, ad engagement, purchases.
+
+Unity Test Tools → Debugging and performance testing.
+
+Google Play Console → Beta testing, app publishing, performance reports.
+
+🚀 Publishing & Marketing
+Google Play Console → Upload APK, manage releases, handle reviews.
+
+Canva / Figma → Create Play Store screenshots, promo images, and banners.
+
+Social Media (Instagram, TikTok, Twitter) → Marketing and viral growth.
+
+✅ With this stack, you can:
+
+Build the game in Unity.
+
+Manage backend with Firebase + PlayFab.
+
+Monetize via AdMob + Play Billing.
+
+Add virality with Dynamic Links + Social Sharing.
+
+Publish and grow via Google Play Console + social media marketing.
