@@ -1,0 +1,53 @@
+Neighborhood Tycoon: mobile simulation/tycoon where players build/manage a virtual street/estate, trade resources, and compete to be “Mayor of the Block.”
+Hyper-local viral angle: competition with nearby streets and social sharing.
+Core gameplay
+
+Start with one plot → build basic shops (kiosk, barber, bakery, suya stand).
+Shops generate coins over time; players upgrade shops to increase output and unlock premium shops.
+Social interactions: visit/trade with neighbors, co-op mode, and light sabotage/pranks.
+Competitive systems: leaderboards (Richest Street, Most Stylish Estate, Fastest Growing) with weekly resets.
+Events & challenges: weekly and seasonal events (e.g., Independence Day) with limited-time shops/skins.
+First-time user / retention hooks
+
+Quick onboarding tutorial, 100 bonus coins.
+Early share incentive (+50 coins for sharing screenshot).
+Rewarded ads introduced gently (double coins).
+Invite rewards (both players benefit) to drive viral installs.
+Push notifications for competitive updates (e.g., someone passing you).
+Loop: Build → Upgrade → Watch Ad → Share → Invite → Compete → Event → Repeat.
+Viral features & engagement mechanics
+
+Leaderboards & titles, shareable screenshots, co-op builds, local cultural shops (e.g., suya stand), social invite rewards.
+Seasonal content, event passes, and badges to drive retention and sharing.
+Monetization
+
+In-app purchases: premium shops, skins, event passes/season pass.
+Rewarded ads and interstitials.
+Ads for extra coins or speed boosts.
+Brand tie-ins / sponsorships (optional, e.g., MTN “data shop”).
+Features & content split
+
+Free content: decorations, daily challenges, basic shops.
+Premium content: exclusive shops (Independence Market, National Museum), skins, event passes (₦500–₦1000 example).
+Technical stack & tools
+
+Recommended: Unity + Firebase + AdMob + PlayFab.
+Alternatives: Unreal (for higher-fidelity 3D), Godot (lightweight, open-source).
+Supporting tools: Figma (UI), Blender (3D), Unity Asset Store, Firebase Dynamic Links, social sharing plugins, Google Play Billing, Google Play Console, analytics (Firebase Analytics).
+Development roadmap (step-by-step)
+
+Week 1–2: Unity project setup, UI wireframes, basic shop building, offline/local storage (PlayerPrefs/SQLite).
+Week 3–4: Upgrade system, economy balancing, local leaderboard, tutorial.
+Week 5–6: Integrate AdMob (rewarded/interstitial) and Play Billing (premium shops/skins); test purchases.
+Week 7–8: Firebase Auth, Dynamic Links (referrals), screenshot sharing, PlayFab leaderboards.
+Week 9–10: Event system, daily challenges, season pass, push notifications.
+Week 11–12: Beta testing, polish, analytics, Play Store submission.
+Post-launch: Weekly events, brand partnerships, community-driven features.
+MVP & growth strategy
+
+Launch as offline single-player MVP (shop building + coin economy) then layer multiplayer, leaderboards, and viral features after traction.
+Focus on quick launch, iterate with social/viral additions, and monetize gradually.
+Optional advanced ideas
+
+AR mini-games (scan real street for bonuses) in later phases.
+Local brand partnerships and sponsored in-game shops.
