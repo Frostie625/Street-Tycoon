@@ -1,0 +1,76 @@
+To build Neighborhood Tycoon (with rewarded ads, premium shops, social sharing, and invite rewards), 
+you’ll need a game engine + supporting services. Here’s a clear breakdown of what apps/tools you can use to make this happen:
+
+🛠️ Core Development Tools
+🎮 Game Engine
+Unity (recommended)
+
+Best for mobile simulation/tycoon games.
+
+Huge ecosystem of assets (shops, buildings, UI kits).
+
+Easy integration with Google AdMob for rewarded ads.
+
+Supports Android export directly to Play Store.
+
+Unreal Engine (alternative)
+
+More powerful graphics, but heavier for casual tycoon games.
+
+Better suited if you want 3D realism.
+
+Godot (lightweight option)
+
+Open-source, free.
+
+Good for 2D simulation games.
+
+Smaller ecosystem compared to Unity.
+
+📲 Backend & Cloud Services
+Firebase (Google)
+
+Authentication (player accounts).
+
+Firestore database (store player progress, leaderboards).
+
+Cloud Functions (event triggers, invite rewards).
+
+Analytics (track retention, monetization).
+
+PlayFab (Microsoft)
+
+Tailored for games: leaderboards, events, player data.
+
+Easy integration with Unity.
+
+Supports in-app purchases and social features.
+
+💰 Monetization
+Google AdMob → Rewarded ads, interstitial ads, banners.
+
+Google Play Billing Library → In-app purchases for premium shops, skins, event passes.
+
+🌍 Social & Viral Features
+Firebase Dynamic Links → Invite friends with referral rewards.
+
+Unity Social Sharing Plugins → Share screenshots directly to WhatsApp, Instagram, TikTok.
+
+🎨 Design & Assets
+Figma → Wireframe and UI design.
+
+Unity Asset Store → Buy ready-made shop/building models, decorations, and skins.
+
+Blender → Create custom 3D models if you want unique shops.
+
+🚀 Suggested Stack for You
+Unity + Firebase + AdMob + PlayFab  
+This combo gives you:
+
+Smooth game development.
+
+Easy monetization.
+
+Scalable backend for leaderboards/events.
+
+Viral features (sharing + invites).
